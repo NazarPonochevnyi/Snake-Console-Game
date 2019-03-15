@@ -1,5 +1,5 @@
 # Snake Console Game
-Simple Snake Console Game on Python.
+Simple Snake Console Game on Python 3.
 
 ### Important!
 For keyboard control I used `msvcrt` module, which supports by Windows OS only.
