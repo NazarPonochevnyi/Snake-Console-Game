@@ -20,6 +20,6 @@ The main goal of your snake is eating food.
 ![Screenshot 2](https://github.com/NazarPonochevnyi/Snake-Console-Game/raw/master/screenshots/2.png)
 
 # Licence
-MIT Licence
+[MIT Licence](https://github.com/NazarPonochevnyi/Snake-Console-Game/blob/master/LICENSE)
 
 Author: Nazar Ponochevnyi
